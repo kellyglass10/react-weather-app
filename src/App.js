@@ -22,7 +22,11 @@ export default function App() {
             target="_blank"
             rel="noreferrer"
           >
-            Github.
+            Github
+          </a>{" "}
+          and hosted on{" "}
+          <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+            Netlify.
           </a>
         </footer>
       </div>
